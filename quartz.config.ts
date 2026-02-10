@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    https://martinmij.github.io/geometria-analitica-ii/,
+    baseUrl: "martinmij.github.io/geometria-analitica-ii",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
